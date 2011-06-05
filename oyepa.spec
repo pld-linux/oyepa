@@ -1,11 +1,11 @@
 Summary:	A tagging file system emulator
 Name:		oyepa
-Version:	3.1
+Version:	3.2
 Release:	0.3
 License:	GPL v2
 Group:		X11/Applications
-Source0:	http://pages.stern.nyu.edu/~marriaga/software/oyepa/oyepa-3.1.tgz
-# Source0-md5:	5adc131a5623055818c6eb82f691cdd3
+Source0:	http://pages.stern.nyu.edu/~marriaga/software/oyepa/%{name}-%{version}.tgz
+# Source0-md5:	099777c8b0601bdaa6ff2e6ab4fcfe8c
 URL:		http://pages.stern.nyu.edu/~marriaga/software/oyepa/
 BuildRequires:	python-PyQt4-devel
 BuildRequires:	python-pyinotify
